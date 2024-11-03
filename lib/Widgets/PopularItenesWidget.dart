@@ -72,7 +72,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                   Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
@@ -84,7 +84,7 @@ class PopularItenesWidget extends StatelessWidget{
                 ),
 
                  Padding(
-                  padding: EdgeInsets.symmetric(horizontal: 7),
+                  padding: EdgeInsets.symmetric(horizontal: 20),
                   child: Container(
                     width: 170,
                     height: 225,
@@ -140,7 +140,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                   Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
@@ -214,7 +214,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                   Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
@@ -226,7 +226,7 @@ class PopularItenesWidget extends StatelessWidget{
                 ),
 
                  Padding(
-                  padding: EdgeInsets.symmetric(horizontal: 7),
+                  padding: EdgeInsets.symmetric(horizontal: 20),
                   child: Container(
                     width: 170,
                     height: 225,
@@ -282,7 +282,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                   Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
@@ -354,7 +354,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                  Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
@@ -366,7 +366,7 @@ class PopularItenesWidget extends StatelessWidget{
                 ),
 
                  Padding(
-                  padding: EdgeInsets.symmetric(horizontal: 7),
+                  padding: EdgeInsets.symmetric(horizontal: 15),
                   child: Container(
                     width: 170,
                     height: 225,
@@ -422,7 +422,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                   Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
@@ -438,7 +438,7 @@ class PopularItenesWidget extends StatelessWidget{
             ),Row(
               children: [
                 Padding(
-                  padding: EdgeInsets.symmetric(horizontal: 20, vertical: 15),
+                  padding: EdgeInsets.symmetric(horizontal: 15, vertical: 15),
                   child: Container(
                     width: 170,
                     height: 225,
@@ -494,7 +494,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                  Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
@@ -562,7 +562,7 @@ class PopularItenesWidget extends StatelessWidget{
                                 ),
                                 Icon(
                                   Icons.add_circle,
-                                  color: Colors.red,
+                                  color: Colors.green,
                                   size: 26,
                                 )
                               ],
